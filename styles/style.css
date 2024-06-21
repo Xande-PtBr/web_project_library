@@ -359,10 +359,10 @@ p {
 
 .footer {
   width: 100%;
-  padding: 80px 60px;
+  padding: 60px 80px;
   box-sizing: border-box;
   color: #fff;
-  background-color: #000000;
+  background-color: #1f1f1f;
 }
 
 .footer__columns {
